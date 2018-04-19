@@ -1,0 +1,3 @@
+Comente toda a classe de segurança.
+crie um cargo.
+crie o usuário e atribua a ele um cargo.
